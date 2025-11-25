@@ -57,7 +57,7 @@ useEffect(() => {
 
 
 
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-16 w-full max-w-6xl">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-16 w-full max-w-6xl">
         {uwoo.map((card,) => (
           <div
             key={card.title}
